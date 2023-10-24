@@ -1,4 +1,4 @@
-Hi 👋 My name is Corentin
+<p color="blue">Hi 👋 My name is Corentin<p>
 =========================
 
 I am currently a 3rd year student of a University Bachelor of Technology, specializing in development.
