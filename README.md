@@ -1,7 +1,7 @@
-<p color="blue">Hi 👋 My name is Corentin<p>
+Hi 👋 I'm Corentin
 =========================
 
-I am currently a 3rd year student of a University Bachelor of Technology, specializing in development.
+I'm currently a 3rd year student of a University Bachelor of Technology, specializing in development.
 ------------------------------------------------------------------------------------------------------
 
 * 🔭 I’m currently working on different kind of projects.
